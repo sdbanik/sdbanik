@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 I'm a 21-year-old developer based in Canada, and I'm passionate about crafting digital experiences
 
 
-
-<u>### :package: Toolbox</u>
+### :package: Toolbox
+---------------------------------------------------------------------------------------------------------------
 
 Language: Java, Python, C/C++, JavaScript, MySQL, Dart 
 
@@ -32,7 +32,7 @@ Backend Development: Firebase
 ### :envelope: Contact
 ---------------------------------------------------------------------------------------------------------------
 
-For a quick response, DM me on [Instagram]([url](https://www.instagram.com/suvodip_banik?igsh=dTY4bWt1Yjk5NHp1)https://www.instagram.com/suvodip_banik?igsh=dTY4bWt1Yjk5NHp1) or [LinkedIn]([url](https://www.linkedin.com/in/suvodipbanik/)https://www.linkedin.com/in/suvodipbanik/) . 
+For a quick response, DM me on [Instagram](https://www.instagram.com/suvodip_banik?igsh=dTY4bWt1Yjk5NHp1) or [LinkedIn](https://www.linkedin.com/in/suvodipbanik/)
 
 
 
