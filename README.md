@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm a 21-year-old developer based in Canada, and I'm passionate about software development and data science.
 
-### Toolbox
+### :package: Toolbox
 ---------------------------------------------------------------------------------------------------------------
 
 Frontend Development:  
