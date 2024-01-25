@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Suvo 👋
 
 <!--
 **sdbanik/sdbanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a 21-year-old developer based in Canada, and I'm passionate about software development and data science.
+
+### Toolbox
+---------------------------------------------------------------------------------------------------------------
+
+Frontend Development:  
+Version Control: 
+Backend Development:
+Language:
