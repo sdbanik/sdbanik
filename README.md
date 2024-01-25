@@ -20,13 +20,15 @@ I'm a 21-year-old developer based in Canada, and I'm passionate about crafting d
 ### :package: Toolbox
 ---------------------------------------------------------------------------------------------------------------
 
-Language: Java, Python, C/C++, JavaScript, MySQL, Dart 
+PROGRAMMING LANGUAGES: Java, Python, C++, Dart, Javascript
 
-Frontend Development:  React 
+DATA SCIENCE LIBRARIES: NumPy, Pandas, Matplotlib
 
-Version Control: Git
+DATABASE MANAGEMENT: MySQL, Firestore
 
-Backend Development: Firebase
+FRAMEWORKS: Flutter, React
+
+WEB DEVELOPMENT: HTML/CSS, JavaScript, Dart
 
 
 ### :envelope: Contact
