@@ -14,12 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a 21-year-old developer based in Canada, and I'm passionate about software development and data science.
+I'm a 21-year-old developer based in Canada, and I'm passionate about crafting digital experiences
+
+
 
 ### :package: Toolbox
 ---------------------------------------------------------------------------------------------------------------
 
-Frontend Development:  
-Version Control: 
-Backend Development:
-Language:
+Language: Java, Python, C/C++, JavaScript, MySQL, Dart 
+
+Frontend Development:  React 
+
+Version Control: Git
+
+Backend Development: Firebase
+
+
+### :sparkles: Fun Facts
+---------------------------------------------------------------------------------------------------------------
+
+=> As a kid, I wanted to be a fighter pilot
+=> I love sketching
+
+### :envelope: Contact
+---------------------------------------------------------------------------------------------------------------
+
+For a quick response, DM me on [Instagram]([url](https://www.instagram.com/suvodip_banik?igsh=dTY4bWt1Yjk5NHp1)https://www.instagram.com/suvodip_banik?igsh=dTY4bWt1Yjk5NHp1) or [LinkedIn]([url](https://www.linkedin.com/in/suvodipbanik/)https://www.linkedin.com/in/suvodipbanik/). 
+
+
+
